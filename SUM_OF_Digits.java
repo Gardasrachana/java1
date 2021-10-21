@@ -1,3 +1,5 @@
+#this program is to add first and last_second digit of the given number
+
 package GCP_JAVA;
 import java.util.*;
 public class SUM_OF_Digits {
@@ -20,3 +22,9 @@ public class SUM_OF_Digits {
 	}
 
 }
+
+
+/*output
+enter the number145890
+the sum is : 10
+*/
